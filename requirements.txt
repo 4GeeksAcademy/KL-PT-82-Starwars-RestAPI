@@ -1,0 +1,11 @@
+certifi==2025.8.3
+distlib==0.4.0
+filelock==3.18.0
+gitdb==4.0.12
+GitPython==3.1.41
+packaging==25.0
+pipenv==2025.0.4
+platformdirs==4.3.8
+setuptools==75.6.0
+smmap==5.0.2
+virtualenv==20.33.1
